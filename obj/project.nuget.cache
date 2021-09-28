@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wp/M/dzeW/gEvkdgOYSIOOLSVjCBZbx8IqysDQiT9SCLmTCt+4cGot3Hx+hVFOWPCTj2HlVsUeurJGiFbEIzFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\igbinoke.benjamin\\Documents\\Webutvkling\\Webutvkling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igbinoke.benjamin\\.nuget\\packages\\raylib-cs\\3.7.0\\raylib-cs.3.7.0.nupkg.sha512",
+    "C:\\Users\\igbinoke.benjamin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

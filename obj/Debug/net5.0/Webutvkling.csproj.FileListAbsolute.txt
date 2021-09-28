@@ -1,0 +1,16 @@
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\Webutvkling.exe
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\Webutvkling.deps.json
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\Webutvkling.runtimeconfig.json
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\Webutvkling.runtimeconfig.dev.json
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\Webutvkling.dll
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\ref\Webutvkling.dll
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\bin\Debug\net5.0\Webutvkling.pdb
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.csproj.AssemblyReference.cache
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.AssemblyInfoInputs.cache
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.AssemblyInfo.cs
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.csproj.CoreCompileInputs.cache
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.dll
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\ref\Webutvkling.dll
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.pdb
+C:\Users\igbinoke.benjamin\Documents\Webutvkling\obj\Debug\net5.0\Webutvkling.genruntimeconfig.cache
